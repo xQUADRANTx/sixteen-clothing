@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+/* Font Sizes */
+.fs-13 {
+  font-size: var(--fs-13);
+}
+
+.fs-14 {
+  font-size: var(--fs-14);
+}
+
+.fs-15 {
+  font-size: var(--fs-15);
+}
+
+.fs-17 {
+  font-size: var(--fs-17);
+}
+
+.fs-18 {
+  font-size: var(--fs-18);
+}
+
+.fs-22 {
+  font-size: var(--fs-22);
+}
+
+.fs-24 {
+  font-size: var(--fs-24);
+}
+
+.fs-28 {
+  font-size: var(--fs-28);
+}
+
+.fs-36 {
+  font-size: var(--fs-36);
+}
+
+.fs-62 {
+  font-size: var(--fs-62);
+}
+
+/* Font Weights */
+.fw-400 {
+  font-weight: 400;
+}
+
+.fw-500 {
+  font-weight: 500;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+/* Font Colors */
+
+.color-white {
+  color: var(--clr-white);
+}
+
+.color-primary {
+  color: var(--clr-primary);
+}
+
+.color-silver {
+  color: var(--clr-silver);
+}
+
+.color-secondary {
+  color: var(--clr-secondary);
+}
+
+.color-link {
+  color: var(--clr-link);
+}
+
+.color-black {
+  color: var(--clr-black);
+}
+
+.color-black-2 {
+  color: var(--clr-black-2);
+}
